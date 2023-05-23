@@ -1,2 +1,2 @@
 # PicoOS-Official-Programs
-Official Repository for PicoOS Programs
+This is the official repository for PicoOS Programs
